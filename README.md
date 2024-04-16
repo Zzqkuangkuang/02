@@ -2,8 +2,7 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>闲鱼的简介</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     闲鱼的个人简介（吐槽）
   </head>
   <body style="background-color: #f1f1f1; text-align: center; padding: 16px">
