@@ -28,7 +28,7 @@
     <div>
       <p>日记版权：闲鱼</p>
       <a
-        href="http://127.0.0.1:5500/%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%BB%E9%A1%B5.html"
+        href="https://zzqkuangkuang.github.io/02/闲鱼.com"
         >我的网站：闲鱼.com</a
       >
     </div>
